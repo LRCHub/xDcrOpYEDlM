@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "かごめかごめ",
+  "base_artist": "オーイシマサヨシ",
+  "createdAt": "2026-03-04T01:26:28.621311Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かごめかごめ",
+      "artist": "オーイシマサヨシ",
+      "has_synced": false,
+      "path": "select/pl_01_かごめかごめ_オーイシマサヨシ.txt"
+    }
+  ]
+}
